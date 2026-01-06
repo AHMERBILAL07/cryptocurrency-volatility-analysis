@@ -1,6 +1,3 @@
-# cryptocurrency-volatility-analysis
-Cryptocurrency Volatility Analysis using R (BTC, ETH, BNB)
-
 # Cryptocurrency Volatility Analysis using R
 
 ## Course Information
@@ -120,13 +117,11 @@ outputs/results/Phase3_Model_Results.csv
 2. Set the working directory to the project root folder
 3. Run the complete script:
 ```r
-
 source("scripts/crypto_volatility_project.R")
 
 
 All cleaned datasets, plots, and model results will be generated automatically.
 
-## Conclusion
+Conclusion
+
 This project demonstrates a complete application of data science techniques on real-world financial data. Through proper data preprocessing, visualization, and predictive modeling, meaningful insights into cryptocurrency volatility and price movements are obtained. The structured repository ensures reproducibility and easy extension for future work.
-
-
